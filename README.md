@@ -7,11 +7,11 @@
 
 🔹 Technical Expertise:
 
-Programming: Python, C, Java, JavaScript (React, Node.js), Kotlin, Rust, SQL
-
-Frameworks & Tools: PyTorch, Apache Spark, CUDA, MongoDB, Docker, CI/CD
-
-Areas of Interest: Big Data Processing, Machine Learning, GPU Programming, Web & Mobile Development
+  Programming: Python, C, Java, JavaScript (React, Node.js), Kotlin, Rust, SQL
+  
+  Frameworks & Tools: PyTorch, Apache Spark, CUDA, MongoDB, Docker, CI/CD
+  
+  Areas of Interest: Big Data Processing, Machine Learning, GPU Programming, Web & Mobile Development
 
 🚀 Always eager to learn, collaborate, and build impactful projects!
 

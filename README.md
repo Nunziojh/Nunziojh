@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm Nunzio!
 🎓 MSc Student in Computer Engineering – Specializing in AI and Data Analytics
+
 📍 Currently at Saint Louis University – Master thesis in progress
 
 💡 Passionate about AI, Big Data, and Software Engineering, I enjoy tackling complex problems with innovative solutions.
